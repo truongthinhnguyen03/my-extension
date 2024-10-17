@@ -6,8 +6,10 @@
   <title>New Tab</title>
 </svelte:head>
 
-<div class="text-2xl font-bold">
-    Hello, World!
+<div class="flex items-center justify-center h-screen">
+    <div class="text-8xl font-bold text-center">
+        Hi, I'm Theo
+    </div>
 </div>
 
 <style>

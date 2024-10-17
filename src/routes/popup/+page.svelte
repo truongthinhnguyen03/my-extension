@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="popup.css" />
 </svelte:head>
 
-<div class="flex flex-col items-center justify-center h-screen">
-    <h1 class="text-2xl font-bold">Welcome to SvelteKit</h1>
+<div class="flex flex-col gap-4 items-center justify-center h-screen">
+    <h1 class="text-2xl font-bold">Hi, I'm Theo</h1>
     <Button on:click={openNewTab}>Open New Tab</Button>
 </div>
